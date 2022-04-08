@@ -20,7 +20,7 @@ Mais um projeto brilhante desenvolvido pela Rocketseat na Next Level Week 5!
 - Estilizando a aplicação com SCSS modules
 - Familiarização com NextJS
 
-### Mais algumas imagens da aplicação
+## Mais algumas imagens da aplicação
 
 - Podcast rodando na homepage
 
